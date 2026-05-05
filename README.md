@@ -39,7 +39,7 @@
 ### 📫 聯絡
 
 - 📧 jenho.cheng@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jenho-cheng/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jenhocheng/)
 - 🌐 兩個 portfolio 的 live demo 在上方 ☝️
 
 > 正在尋找 **PM / Product Analyst** 機會,歡迎私訊聊聊。
