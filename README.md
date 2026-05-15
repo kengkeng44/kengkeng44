@@ -1,6 +1,9 @@
 ### Hi, I'm Jen-Ho 鄭仁和 👋
 
-在資料分析、產品企劃與自動化的交界處工作 — 讓每份分析都對應到一個可執行的決策。
+資料分析人,擅長把分析做成可決策的商業洞察 — 而不是只跑一個漂亮的 RFM。
+
+> 🎛 **[Operator's Card · Claude Code 配置儀表板 →](https://kengkeng44.github.io/kengkeng/dashboard/)**
+> Memory / Permissions / Skills 三合一視覺化 · 中英對照 · 跑在 Fraunces + Geist + 思源黑體
 
 ---
 
@@ -40,8 +43,6 @@
 
 - 📧 jenho.cheng@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jenhocheng/)
-- 📱 0972-835-941
-- 🌐 [履歷短網址](https://bit.ly/jenho-resume)
 - 🌐 兩個 portfolio 的 live demo 在上方 ☝️
 
-> 對 **Product Analyst / Associate PM / 商業企劃 / 產品企劃** 的機會有興趣,歡迎交流。
+> 對 **PM / Product Analyst** 機會仍有興趣,歡迎私訊聊聊。
